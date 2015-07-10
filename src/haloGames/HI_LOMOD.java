@@ -89,7 +89,7 @@ public class HI_LOMOD {
 	}
 
 	public static int choice(int men) {
-		// menu selection switch
+		// menu selection switch don't ask why it returns numbers it was required as part of the assesment
 		switch (men) {
 		case 1:
 			return 1;
